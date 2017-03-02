@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.xml
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.exe
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.xml
+c:\users\owner\documents\visual studio 2012\Projects\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.pdb
